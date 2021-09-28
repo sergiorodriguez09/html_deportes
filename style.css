@@ -1,0 +1,34 @@
+.titulo1 {
+    color:red;
+    text-decoration: underline;
+}
+.titulo2 {
+    color:red;
+    text-decoration: underline;
+}
+.titulo3 {
+    color:red;
+    text-decoration: underline;
+}
+.titulo4 {
+    color:red;
+    text-decoration: underline;
+}
+.clasificacion {
+    color:blue;
+    text-decoration: underline;
+}
+.clasificacionequipos {
+    color:green;
+    text-decoration: underline;
+}
+.suscribete {
+    color:brown;
+    text-decoration: underline;
+}
+.ultimasnoticias {
+    font-size: 42px;
+}
+.boton {
+    color:green;
+}
